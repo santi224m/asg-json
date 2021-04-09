@@ -1,0 +1,764 @@
+{
+  "brands" : {
+    "126d99a6-d5fe-4fc5-bea0-27ec64d860c7" : {
+      "brandName" : "Race Sim Studio",
+      "id" : "126d99a6-d5fe-4fc5-bea0-27ec64d860c7",
+      "logoURl" : "https://firebasestorage.googleapis.com/v0/b/assettocorsagarage.appspot.com/o/images%2Fbrands%2FRace%20Sim%20Studio.png?alt=media&token=ea70baed-8424-4f79-a38a-56cf313b7ddc"
+    },
+    "2b208e7c-4c5f-46ba-806f-584de1fe9eea" : {
+      "brandName" : "Alfa Romeo",
+      "id" : "2b208e7c-4c5f-46ba-806f-584de1fe9eea",
+      "logoURl" : "https://firebasestorage.googleapis.com/v0/b/assettocorsagarage.appspot.com/o/images%2Fbrands%2FAlfa%20Romeo.png?alt=media&token=d11d7825-d289-45eb-a525-619a0368c1b7"
+    },
+    "339eb6a8-ed3b-4b91-bfd0-567b8c6b4025" : {
+      "brandName" : "BMW",
+      "id" : "339eb6a8-ed3b-4b91-bfd0-567b8c6b4025",
+      "logoURl" : "https://firebasestorage.googleapis.com/v0/b/assettocorsagarage.appspot.com/o/images%2Fbrands%2Fbmw.png?alt=media&token=e78a2488-0a1b-4efb-be3a-24414a86831e"
+    },
+    "346b1fbd-fbfe-4865-a0d5-20b27a6d999c" : {
+      "brandName" : "Caterham",
+      "id" : "346b1fbd-fbfe-4865-a0d5-20b27a6d999c",
+      "logoURl" : "https://firebasestorage.googleapis.com/v0/b/assettocorsagarage.appspot.com/o/images%2Fbrands%2FCaterham.png?alt=media&token=4e2801c5-2e46-491d-b960-ed1fdf479f23"
+    },
+    "35e6f9d4-3695-4746-9c86-3ad1602209d0" : {
+      "brandName" : "De Tomaso",
+      "id" : "35e6f9d4-3695-4746-9c86-3ad1602209d0",
+      "logoURl" : "https://firebasestorage.googleapis.com/v0/b/assettocorsagarage.appspot.com/o/images%2Fbrands%2FDe%20Tomaso.png?alt=media&token=afc05a39-7c84-416c-a7d1-829cdcfa75ff"
+    },
+    "3e14f952-ed28-4804-86a2-f6f73964eb61" : {
+      "brandName" : "Seat Leon",
+      "id" : "3e14f952-ed28-4804-86a2-f6f73964eb61",
+      "logoURl" : "https://firebasestorage.googleapis.com/v0/b/assettocorsagarage.appspot.com/o/images%2Fbrands%2FSeat%20Leon.png?alt=media&token=c7761d8a-9ed3-47c7-94ea-aed63ec49ca3"
+    },
+    "3e73cf5c-6152-4428-ab08-ef812b0eb9be" : {
+      "brandName" : "Acura",
+      "id" : "3e73cf5c-6152-4428-ab08-ef812b0eb9be",
+      "logoURl" : "https://firebasestorage.googleapis.com/v0/b/assettocorsagarage.appspot.com/o/images%2Fbrands%2FAcura.png?alt=media&token=011f3fd9-0631-419b-9d48-0350e9a3554e"
+    },
+    "48adaea7-590e-42e4-855d-d89a6d628451" : {
+      "brandName" : "Russell-Alexis",
+      "id" : "48adaea7-590e-42e4-855d-d89a6d628451",
+      "logoURl" : "https://firebasestorage.googleapis.com/v0/b/assettocorsagarage.appspot.com/o/images%2Fbrands%2FRussell-Alexis.png?alt=media&token=6d27e164-88c4-4a9d-b626-5244627c3987"
+    },
+    "536fc9b2-d1eb-4a43-bd48-e20a3f3fc1f6" : {
+      "brandName" : "Jordan",
+      "id" : "536fc9b2-d1eb-4a43-bd48-e20a3f3fc1f6",
+      "logoURl" : "https://firebasestorage.googleapis.com/v0/b/assettocorsagarage.appspot.com/o/images%2Fbrands%2FJordan.png?alt=media&token=45c0c6a2-06ad-4beb-8179-3afb1764323d"
+    },
+    "5be8e89a-a41a-4681-b360-a4e8381c99f2" : {
+      "brandName" : "Henry Clay Motosports",
+      "id" : "5be8e89a-a41a-4681-b360-a4e8381c99f2",
+      "logoURl" : "https://firebasestorage.googleapis.com/v0/b/assettocorsagarage.appspot.com/o/images%2Fbrands%2FHenry%20Clay%20Motosports.png?alt=media&token=d155cdb3-1393-49cd-9a78-88839dd2ae2b"
+    },
+    "62d9cb50-a27c-4d7a-a201-cd38a962a137" : {
+      "brandName" : "McLaren",
+      "id" : "62d9cb50-a27c-4d7a-a201-cd38a962a137",
+      "logoURl" : "https://firebasestorage.googleapis.com/v0/b/assettocorsagarage.appspot.com/o/images%2Fbrands%2FMcLaren.png?alt=media&token=cc3a5d91-1dde-46b7-9319-6383fbb1bd82"
+    },
+    "7763a508-5ede-4273-9182-436c07dff227" : {
+      "brandName" : "Dodge",
+      "id" : "7763a508-5ede-4273-9182-436c07dff227",
+      "logoURl" : "https://firebasestorage.googleapis.com/v0/b/assettocorsagarage.appspot.com/o/images%2Fbrands%2FDodge.png?alt=media&token=2a2958fa-c58d-4704-8ba1-e94d727cbb30"
+    },
+    "7c21e714-a2a2-450c-8e37-6113b613a3c6" : {
+      "brandName" : "Mitsubishi",
+      "id" : "7c21e714-a2a2-450c-8e37-6113b613a3c6",
+      "logoURl" : "https://firebasestorage.googleapis.com/v0/b/assettocorsagarage.appspot.com/o/images%2Fbrands%2FMitsubishi.png?alt=media&token=525cbbbc-2fca-4534-925f-2c31311bba91"
+    },
+    "8db384f9-fcac-4777-918f-f8d9af396345" : {
+      "brandName" : "Honda",
+      "id" : "8db384f9-fcac-4777-918f-f8d9af396345",
+      "logoURl" : "https://firebasestorage.googleapis.com/v0/b/assettocorsagarage.appspot.com/o/images%2Fbrands%2FhondaLogo.jpg?alt=media&token=bdf32ffe-3d47-4209-b1fb-b65e6197d3ad"
+    },
+    "912efeb2-341f-4145-a03e-72bccc82210f" : {
+      "brandName" : "Ginetta",
+      "id" : "912efeb2-341f-4145-a03e-72bccc82210f",
+      "logoURl" : "https://firebasestorage.googleapis.com/v0/b/assettocorsagarage.appspot.com/o/images%2Fbrands%2FGinetta.png?alt=media&token=9cd77d67-c79d-47c0-9f07-2e0b9306d12b"
+    },
+    "97ddf18f-8584-4e38-9057-c602aa59e7d4" : {
+      "brandName" : "Lancia",
+      "id" : "97ddf18f-8584-4e38-9057-c602aa59e7d4",
+      "logoURl" : "https://firebasestorage.googleapis.com/v0/b/assettocorsagarage.appspot.com/o/images%2Fbrands%2FLancia.png?alt=media&token=dd594a6b-2cf0-477a-8185-b122ce8bb3ff"
+    },
+    "9e05a8a9-2a2f-4a0f-a1e3-fc9ff91f914c" : {
+      "brandName" : "Peugeot",
+      "id" : "9e05a8a9-2a2f-4a0f-a1e3-fc9ff91f914c",
+      "logoURl" : "https://firebasestorage.googleapis.com/v0/b/assettocorsagarage.appspot.com/o/images%2Fbrands%2FPeugeot.png?alt=media&token=2502299f-cb6d-47e7-ae8b-9c27bcd49d7d"
+    },
+    "a7d006ae-87b7-46c3-9a3e-119d03d2805d" : {
+      "brandName" : "Opel",
+      "id" : "a7d006ae-87b7-46c3-9a3e-119d03d2805d",
+      "logoURl" : "https://firebasestorage.googleapis.com/v0/b/assettocorsagarage.appspot.com/o/images%2Fbrands%2FOpel.png?alt=media&token=e1acd7f0-f48f-42a3-b6c3-730f5b35b47d"
+    },
+    "b63d70fd-5aa4-43f2-b262-5d1d2929995a" : {
+      "brandName" : "Skoda",
+      "id" : "b63d70fd-5aa4-43f2-b262-5d1d2929995a",
+      "logoURl" : "https://firebasestorage.googleapis.com/v0/b/assettocorsagarage.appspot.com/o/images%2Fbrands%2FSkoda.png?alt=media&token=81bee41a-29f9-4528-a65b-7ebb7904fdc2"
+    },
+    "b74b994c-41c4-4a44-8060-7007858d892e" : {
+      "brandName" : "Dallara",
+      "id" : "b74b994c-41c4-4a44-8060-7007858d892e",
+      "logoURl" : "https://firebasestorage.googleapis.com/v0/b/assettocorsagarage.appspot.com/o/images%2Fbrands%2FDallara.png?alt=media&token=eaf5dfca-42a8-4537-93fe-3635810210e5"
+    },
+    "bf2db852-28ab-407b-a93d-5aedc8352c84" : {
+      "brandName" : "Austin",
+      "id" : "bf2db852-28ab-407b-a93d-5aedc8352c84",
+      "logoURl" : "https://firebasestorage.googleapis.com/v0/b/assettocorsagarage.appspot.com/o/images%2Fbrands%2Faustin.png?alt=media&token=bfcab96d-13a8-4bce-8915-4674b8baf36f"
+    },
+    "ca396de3-808f-43b9-931e-3c419e6464c8" : {
+      "brandName" : "Porsche",
+      "id" : "ca396de3-808f-43b9-931e-3c419e6464c8",
+      "logoURl" : "https://firebasestorage.googleapis.com/v0/b/assettocorsagarage.appspot.com/o/images%2Fbrands%2Fporsche.png?alt=media&token=34b510ca-a38a-4a46-8d62-4889b1d24c29"
+    },
+    "ce3f354f-e6d5-4cfc-aec8-296fdf92a9ea" : {
+      "brandName" : "Nissan",
+      "id" : "ce3f354f-e6d5-4cfc-aec8-296fdf92a9ea",
+      "logoURl" : "https://firebasestorage.googleapis.com/v0/b/assettocorsagarage.appspot.com/o/images%2Fbrands%2FNissan.png?alt=media&token=95164a0f-01c7-461f-9739-8116ea8b6025"
+    },
+    "d2574d2a-662b-4e00-b2bb-08fed54aefde" : {
+      "brandName" : "Lola",
+      "id" : "d2574d2a-662b-4e00-b2bb-08fed54aefde",
+      "logoURl" : "https://firebasestorage.googleapis.com/v0/b/assettocorsagarage.appspot.com/o/images%2Fbrands%2FLola.png?alt=media&token=23ecc7e9-2ccb-4289-be86-dfd57eba9e9b"
+    },
+    "d27325f4-4640-4804-ba30-a1bfa607983f" : {
+      "brandName" : "Lamborghini",
+      "id" : "d27325f4-4640-4804-ba30-a1bfa607983f",
+      "logoURl" : "https://firebasestorage.googleapis.com/v0/b/assettocorsagarage.appspot.com/o/images%2Fbrands%2FLamborghini.png?alt=media&token=136d9db7-3940-47be-bf73-ab0cd9dfa88f"
+    },
+    "d505cf19-4b99-48a1-9ecd-f15e31b67471" : {
+      "brandName" : "Williams",
+      "id" : "d505cf19-4b99-48a1-9ecd-f15e31b67471",
+      "logoURl" : "https://firebasestorage.googleapis.com/v0/b/assettocorsagarage.appspot.com/o/images%2Fbrands%2FWilliams.png?alt=media&token=aa91404d-8b68-48ce-9ba0-398ecc9a2f55"
+    },
+    "d751e452-a915-4d2d-bcfb-f492b0873ab6" : {
+      "brandName" : "Chevrolet",
+      "id" : "d751e452-a915-4d2d-bcfb-f492b0873ab6",
+      "logoURl" : "https://firebasestorage.googleapis.com/v0/b/assettocorsagarage.appspot.com/o/images%2Fbrands%2FChevrolet.png?alt=media&token=fb09facc-bd14-4edc-baac-6c8786cc08aa"
+    },
+    "da770fcf-5ca1-44c3-8973-972855d76c76" : {
+      "brandName" : "Ford",
+      "id" : "da770fcf-5ca1-44c3-8973-972855d76c76",
+      "logoURl" : "https://firebasestorage.googleapis.com/v0/b/assettocorsagarage.appspot.com/o/images%2Fbrands%2FFord.png?alt=media&token=6cf314aa-f055-439b-974a-636992f27270"
+    },
+    "de03a11f-6354-4627-a059-ad0a9487f984" : {
+      "brandName" : "Ferrari",
+      "id" : "de03a11f-6354-4627-a059-ad0a9487f984",
+      "logoURl" : "https://firebasestorage.googleapis.com/v0/b/assettocorsagarage.appspot.com/o/images%2Fbrands%2FFerrari.png?alt=media&token=251413e5-b573-4b44-88b4-0582829c8910"
+    },
+    "e34c2127-1d48-4b6d-9144-17a65f6ba58b" : {
+      "brandName" : "Oreca",
+      "id" : "e34c2127-1d48-4b6d-9144-17a65f6ba58b",
+      "logoURl" : "https://firebasestorage.googleapis.com/v0/b/assettocorsagarage.appspot.com/o/images%2Fbrands%2FOreca.png?alt=media&token=bd9010cc-2c2d-4baa-8ffa-aacf40b3711a"
+    },
+    "f26101cb-a567-45e4-92e2-245d8517ce0d" : {
+      "brandName" : "Subaru",
+      "id" : "f26101cb-a567-45e4-92e2-245d8517ce0d",
+      "logoURl" : "https://firebasestorage.googleapis.com/v0/b/assettocorsagarage.appspot.com/o/images%2Fbrands%2FSubaru.png?alt=media&token=0194d090-4db0-4f64-85f6-28d04b2136fb"
+    },
+    "f2b396e9-5667-4bd6-8ad4-713d5febbb19" : {
+      "brandName" : "Toyota",
+      "id" : "f2b396e9-5667-4bd6-8ad4-713d5febbb19",
+      "logoURl" : "https://firebasestorage.googleapis.com/v0/b/assettocorsagarage.appspot.com/o/images%2Fbrands%2FToyota.png?alt=media&token=a1908f85-b7b2-4661-ac82-3e350611cef7"
+    }
+  },
+  "cars" : {
+    "05e12835-7ec9-4e7e-808b-bd8b0cd87b1c" : {
+      "brand" : "Honda",
+      "carClass" : "Race",
+      "createdBy" : "jXA3EsCxBqa6KFRiQ87zgJLlo6c2",
+      "dateAdded" : "2021-03-24T02:09:35.238Z",
+      "id" : "05e12835-7ec9-4e7e-808b-bd8b0cd87b1c",
+      "imgURL" : "https://firebasestorage.googleapis.com/v0/b/assettocorsagarage.appspot.com/o/images%2Fmods%2F119622fe-5077-4393-b5a5-c4bb0cf7025e?alt=media&token=357bff7a-4544-482f-93b1-100f94d16b10",
+      "modURL" : "https://www.racedepartment.com/downloads/honda-civic-type-r-ep3-cup.40763/",
+      "model" : "Civic Type R EP3 Cup",
+      "transmission" : "Manual",
+      "verified" : true,
+      "year" : 2019
+    },
+    "0b96f8f7-2e76-4f84-8be2-273afeebdce7" : {
+      "brand" : "Chevrolet",
+      "carClass" : "Road",
+      "createdBy" : "jXA3EsCxBqa6KFRiQ87zgJLlo6c2",
+      "dateAdded" : "2021-03-20T02:38:57.195Z",
+      "id" : "0b96f8f7-2e76-4f84-8be2-273afeebdce7",
+      "imgURL" : "https://firebasestorage.googleapis.com/v0/b/assettocorsagarage.appspot.com/o/images%2Fmods%2Fc1.jpg?alt=media&token=69786de4-f2e3-40a5-987d-f48fbcf7b3c6",
+      "modURL" : "https://www.racedepartment.com/downloads/1959-corvette-c1.37625/",
+      "model" : "Corvette C1",
+      "transmission" : "Manual",
+      "verified" : true,
+      "year" : 1959
+    },
+    "0c68baad-63cc-4dc5-b13a-f886cb8d89e8" : {
+      "brand" : "Toyota",
+      "carClass" : "Race",
+      "createdBy" : "jXA3EsCxBqa6KFRiQ87zgJLlo6c2",
+      "dateAdded" : "2021-03-24T02:13:32.450Z",
+      "id" : "0c68baad-63cc-4dc5-b13a-f886cb8d89e8",
+      "imgURL" : "https://firebasestorage.googleapis.com/v0/b/assettocorsagarage.appspot.com/o/images%2Fmods%2F96a4d478-340f-4729-883c-137a841a1ede?alt=media&token=4b4b9a95-3735-493e-89d9-f45f5850189f",
+      "modURL" : "https://www.racedepartment.com/downloads/toyota-corolla-2020-tn-clase-3.34575/",
+      "model" : "Corolla TN Clase 3",
+      "transmission" : "Sequential",
+      "verified" : true,
+      "year" : 2020
+    },
+    "0cc193e0-c1c2-428b-b50b-8d5958f72876" : {
+      "brand" : "Nissan",
+      "carClass" : "Race",
+      "createdBy" : "jXA3EsCxBqa6KFRiQ87zgJLlo6c2",
+      "dateAdded" : "2021-03-20T03:13:13.120Z",
+      "id" : "0cc193e0-c1c2-428b-b50b-8d5958f72876",
+      "imgURL" : "https://firebasestorage.googleapis.com/v0/b/assettocorsagarage.appspot.com/o/images%2Fmods%2FnissanBTC.jpg?alt=media&token=474715da-5723-4e44-b057-26315cadd4b7",
+      "modURL" : "https://www.racedepartment.com/downloads/1999-nissan-primera-btcc.3828/",
+      "model" : "Primera P11 BTCC",
+      "transmission" : "Sequential",
+      "verified" : true,
+      "year" : 1999
+    },
+    "1b3c9928-3891-4336-ab27-103f6c28f353" : {
+      "brand" : "Alfa Romeo",
+      "carClass" : "Race",
+      "createdBy" : "jXA3EsCxBqa6KFRiQ87zgJLlo6c2",
+      "dateAdded" : "2021-03-20T00:26:02.679Z",
+      "id" : "1b3c9928-3891-4336-ab27-103f6c28f353",
+      "imgURL" : "https://firebasestorage.googleapis.com/v0/b/assettocorsagarage.appspot.com/o/images%2Fmods%2FalfaRomeoGTAM.jpg?alt=media&token=1eadab8f-cb00-492d-90c9-a09f88aa764d",
+      "modURL" : "https://www.racedepartment.com/downloads/1970-alfa-romeo-gtam.28717/",
+      "model" : "GTAM",
+      "transmission" : "Manual",
+      "verified" : true,
+      "year" : 1970
+    },
+    "24c0b66a-e498-4944-9c02-dd7588c7ea87" : {
+      "brand" : "Caterham",
+      "carClass" : "Race",
+      "createdBy" : "jXA3EsCxBqa6KFRiQ87zgJLlo6c2",
+      "dateAdded" : "2021-03-20T02:36:50.414Z",
+      "id" : "24c0b66a-e498-4944-9c02-dd7588c7ea87",
+      "imgURL" : "https://firebasestorage.googleapis.com/v0/b/assettocorsagarage.appspot.com/o/images%2Fmods%2FcaterhamAcademy.jpg?alt=media&token=ca773f8f-6951-4b11-af8a-95c2bb7336fa",
+      "modURL" : "https://www.racedepartment.com/downloads/caterham-academy-2020.17855/",
+      "model" : "Academy",
+      "transmission" : "Manual",
+      "verified" : true,
+      "year" : 2017
+    },
+    "2ec540e1-afc7-4f27-8506-cfdff762c874" : {
+      "brand" : "BMW",
+      "carClass" : "Race",
+      "createdBy" : "jXA3EsCxBqa6KFRiQ87zgJLlo6c2",
+      "dateAdded" : "2021-03-20T02:33:40.048Z",
+      "id" : "2ec540e1-afc7-4f27-8506-cfdff762c874",
+      "imgURL" : "https://firebasestorage.googleapis.com/v0/b/assettocorsagarage.appspot.com/o/images%2Fmods%2Fbmw320.jpg?alt=media&token=058cb409-b340-48ab-8a76-6f65df6e3967",
+      "modURL" : "https://www.racedepartment.com/downloads/1998-bmw-320i-stw-btcc.32489/",
+      "model" : "320i STW-BTCC",
+      "transmission" : "Sequential",
+      "verified" : true,
+      "year" : 1998
+    },
+    "3133b899-8c33-44cb-a509-6f6f3845b227" : {
+      "brand" : "Porsche",
+      "carClass" : "Road",
+      "createdBy" : "jXA3EsCxBqa6KFRiQ87zgJLlo6c2",
+      "dateAdded" : "2021-03-20T03:19:45.391Z",
+      "id" : "3133b899-8c33-44cb-a509-6f6f3845b227",
+      "imgURL" : "https://firebasestorage.googleapis.com/v0/b/assettocorsagarage.appspot.com/o/images%2Fmods%2Fporsche911Turbo993.jpg?alt=media&token=d3c1d511-5ca3-45ac-bb67-bb4811519532",
+      "modURL" : "https://www.racedepartment.com/downloads/porsche-911-993-turbo.29842/",
+      "model" : "911 (993) Turbo",
+      "transmission" : "Manual",
+      "verified" : true,
+      "year" : 1996
+    },
+    "384ec4e7-9626-4980-a72d-8d9e6b83c584" : {
+      "brand" : "Lancia",
+      "carClass" : "Road",
+      "createdBy" : "jXA3EsCxBqa6KFRiQ87zgJLlo6c2",
+      "dateAdded" : "2021-03-20T03:05:19.442Z",
+      "id" : "384ec4e7-9626-4980-a72d-8d9e6b83c584",
+      "imgURL" : "https://firebasestorage.googleapis.com/v0/b/assettocorsagarage.appspot.com/o/images%2Fmods%2FlanciaFulvia.jpg?alt=media&token=9a541ce0-3c1b-41f3-9907-985e0f75c80a",
+      "modURL" : "https://www.racedepartment.com/downloads/lancia-fulvia-1-6-hf.9317/",
+      "model" : "Fulvia",
+      "transmission" : "Manual",
+      "verified" : true,
+      "year" : 1963
+    },
+    "3f1fc580-a68b-421f-9b6a-2251ff45d42b" : {
+      "brand" : "Caterham",
+      "carClass" : "Road",
+      "createdBy" : "jXA3EsCxBqa6KFRiQ87zgJLlo6c2",
+      "dateAdded" : "2021-03-20T02:35:36.899Z",
+      "id" : "3f1fc580-a68b-421f-9b6a-2251ff45d42b",
+      "imgURL" : "https://firebasestorage.googleapis.com/v0/b/assettocorsagarage.appspot.com/o/images%2Fmods%2FcaterhamSuper7.jpg?alt=media&token=0d726247-0680-4d89-b67a-3f2f1d21c71f",
+      "modURL" : "https://www.racedepartment.com/downloads/caterham-7-super-sprint-1995.16143/",
+      "model" : "7 Super Sprint",
+      "transmission" : "Manual",
+      "verified" : true,
+      "year" : 1995
+    },
+    "41455cb1-c49a-44b7-985d-c6dd5cd7ef6c" : {
+      "brand" : "Austin",
+      "carClass" : "Road",
+      "createdBy" : "jXA3EsCxBqa6KFRiQ87zgJLlo6c2",
+      "dateAdded" : "2021-03-19T21:08:14.383Z",
+      "id" : "41455cb1-c49a-44b7-985d-c6dd5cd7ef6c",
+      "imgURL" : "https://firebasestorage.googleapis.com/v0/b/assettocorsagarage.appspot.com/o/images%2Fmods%2FminiCooperS.jpg?alt=media&token=8a3de585-82ad-4b2b-92f8-71958c4af55c",
+      "modURL" : "https://www.racedepartment.com/downloads/austin-mini-cooper-s-fia-app-k-historic-racing.27875/",
+      "model" : "Mini Cooper S",
+      "transmission" : "Manual",
+      "verified" : true,
+      "year" : 1964
+    },
+    "4d9decaa-3f1d-4bd0-9e2a-42f8e46d552b" : {
+      "brand" : "Seat Leon",
+      "carClass" : "Race",
+      "createdBy" : "jXA3EsCxBqa6KFRiQ87zgJLlo6c2",
+      "dateAdded" : "2021-03-20T03:24:38.089Z",
+      "id" : "4d9decaa-3f1d-4bd0-9e2a-42f8e46d552b",
+      "imgURL" : "https://firebasestorage.googleapis.com/v0/b/assettocorsagarage.appspot.com/o/images%2Fmods%2FseatLeonEuroCup.jpg?alt=media&token=827d589d-c3f8-4240-b3a5-4ace0eafc167",
+      "modURL" : "https://www.racedepartment.com/downloads/seat-leon-cup.15203/",
+      "model" : "EuroCup",
+      "transmission" : "Paddle Shifter",
+      "verified" : true,
+      "year" : 2015
+    },
+    "4f6e6b60-c4e6-4a57-ba03-662f603204ee" : {
+      "brand" : "Seat Leon",
+      "carClass" : "Race",
+      "createdBy" : "jXA3EsCxBqa6KFRiQ87zgJLlo6c2",
+      "dateAdded" : "2021-03-20T03:23:43.287Z",
+      "id" : "4f6e6b60-c4e6-4a57-ba03-662f603204ee",
+      "imgURL" : "https://firebasestorage.googleapis.com/v0/b/assettocorsagarage.appspot.com/o/images%2Fmods%2FseatLeonTCR.jpg?alt=media&token=3bd29ab0-94a8-4f32-aa99-a83abbb8c51f",
+      "modURL" : "https://www.racedepartment.com/downloads/seat-leon-tcr-2018.20109/",
+      "model" : "TCR DSG",
+      "transmission" : "Paddle Shifter",
+      "verified" : true,
+      "year" : 2018
+    },
+    "50670631-3cfb-41cb-87a8-a9c769f25d14" : {
+      "brand" : "Opel",
+      "carClass" : "Race",
+      "createdBy" : "jXA3EsCxBqa6KFRiQ87zgJLlo6c2",
+      "dateAdded" : "2021-03-20T03:15:27.992Z",
+      "id" : "50670631-3cfb-41cb-87a8-a9c769f25d14",
+      "imgURL" : "https://firebasestorage.googleapis.com/v0/b/assettocorsagarage.appspot.com/o/images%2Fmods%2FopelCalibra.jpg?alt=media&token=a8b5ae22-63b7-4b61-be87-0c93ac31bc98",
+      "modURL" : "https://www.racedepartment.com/downloads/opel-calibra-itc-1996.7943/",
+      "model" : "Calibra DTM",
+      "transmission" : "Paddle Shifter",
+      "verified" : true,
+      "year" : 1996
+    },
+    "52a62740-3766-4e66-a5d6-c48ca3fda035" : {
+      "brand" : "Jordan",
+      "carClass" : "Open Wheel",
+      "createdBy" : "jXA3EsCxBqa6KFRiQ87zgJLlo6c2",
+      "dateAdded" : "2021-03-20T03:01:47.429Z",
+      "id" : "52a62740-3766-4e66-a5d6-c48ca3fda035",
+      "imgURL" : "https://firebasestorage.googleapis.com/v0/b/assettocorsagarage.appspot.com/o/images%2Fmods%2Fjordan191.jpg?alt=media&token=d269bf6f-3945-4549-92b1-1b7d7de41c90",
+      "modURL" : "https://www.racedepartment.com/downloads/vrc-1991-jordan-191.15281/",
+      "model" : "191",
+      "transmission" : "Manual",
+      "verified" : true,
+      "year" : 1991
+    },
+    "56b923d0-06fd-4f95-afa9-f08ad8f03d80" : {
+      "brand" : "Toyota",
+      "carClass" : "Road",
+      "createdBy" : "jXA3EsCxBqa6KFRiQ87zgJLlo6c2",
+      "dateAdded" : "2021-03-20T03:26:35.383Z",
+      "id" : "56b923d0-06fd-4f95-afa9-f08ad8f03d80",
+      "imgURL" : "https://firebasestorage.googleapis.com/v0/b/assettocorsagarage.appspot.com/o/images%2Fmods%2FtoyotaSera.jpg?alt=media&token=68502efd-696f-47a4-975e-002162d71580",
+      "modURL" : "https://www.racedepartment.com/downloads/toyota-sera-stock-trd-gt.17038/",
+      "model" : "Sera GT",
+      "transmission" : "Manual",
+      "verified" : true,
+      "year" : 1994
+    },
+    "60b794cb-c77c-47fd-8ef9-fa5e6a60dd84" : {
+      "brand" : "Dallara",
+      "carClass" : "Open Wheel",
+      "createdBy" : "jXA3EsCxBqa6KFRiQ87zgJLlo6c2",
+      "dateAdded" : "2021-03-20T02:43:53.795Z",
+      "id" : "60b794cb-c77c-47fd-8ef9-fa5e6a60dd84",
+      "imgURL" : "https://firebasestorage.googleapis.com/v0/b/assettocorsagarage.appspot.com/o/images%2Fmods%2FdallaryF3.jpg?alt=media&token=c7921894-ea55-43ff-859d-3d6df8f8cb59",
+      "modURL" : "https://www.racedepartment.com/downloads/rsr-formula-3.8040/",
+      "model" : "F3",
+      "transmission" : "Paddle Shifter",
+      "verified" : true,
+      "year" : 2013
+    },
+    "65f314d4-1d1e-4333-a41b-2ed33789eb44" : {
+      "brand" : "Ferrari",
+      "carClass" : "Road",
+      "createdBy" : "jXA3EsCxBqa6KFRiQ87zgJLlo6c2",
+      "dateAdded" : "2021-03-20T02:49:51.031Z",
+      "id" : "65f314d4-1d1e-4333-a41b-2ed33789eb44",
+      "imgURL" : "https://firebasestorage.googleapis.com/v0/b/assettocorsagarage.appspot.com/o/images%2Fmods%2FferrariTR.jpg?alt=media&token=b1839eb5-3478-4329-8ed2-78aeee2cdfea",
+      "modURL" : "https://www.racedepartment.com/downloads/nfs-tournament-class-a.16905/",
+      "model" : "512 TR",
+      "transmission" : "Manual",
+      "verified" : true,
+      "year" : 1994
+    },
+    "6bbf0412-757e-49b1-9afe-f80c4443c738" : {
+      "brand" : "Henry Clay Motosports",
+      "carClass" : "Road",
+      "createdBy" : "jXA3EsCxBqa6KFRiQ87zgJLlo6c2",
+      "dateAdded" : "2021-03-20T03:00:43.232Z",
+      "id" : "6bbf0412-757e-49b1-9afe-f80c4443c738",
+      "imgURL" : "https://firebasestorage.googleapis.com/v0/b/assettocorsagarage.appspot.com/o/images%2Fmods%2FveloceGTS.jpg?alt=media&token=238f8f8c-cf67-43e1-9edb-f7f3ece717cb",
+      "modURL" : "https://www.racedepartment.com/downloads/veloce-gts-8.9828/",
+      "model" : "Veloce GTS-8",
+      "transmission" : "Manual",
+      "verified" : true,
+      "year" : 2016
+    },
+    "709004ed-f189-4f03-8fb3-aa52f9d93330" : {
+      "brand" : "Race Sim Studio",
+      "carClass" : "Open Wheel",
+      "createdBy" : "jXA3EsCxBqa6KFRiQ87zgJLlo6c2",
+      "dateAdded" : "2021-03-20T03:21:21.289Z",
+      "id" : "709004ed-f189-4f03-8fb3-aa52f9d93330",
+      "imgURL" : "https://firebasestorage.googleapis.com/v0/b/assettocorsagarage.appspot.com/o/images%2Fmods%2FformulaRSS3.jpg?alt=media&token=3b0b218a-e4da-4d05-b928-0b4f545f7154",
+      "modURL" : "https://www.racedepartment.com/downloads/formula-rss-3-v6.26726/",
+      "model" : "Formula RSS 3",
+      "transmission" : "Paddle Shifter",
+      "verified" : true,
+      "year" : 2019
+    },
+    "749396a4-c001-45cc-9fc0-b9a8ae732815" : {
+      "brand" : "Ford",
+      "carClass" : "Road",
+      "createdBy" : "jXA3EsCxBqa6KFRiQ87zgJLlo6c2",
+      "dateAdded" : "2021-03-20T02:57:28.143Z",
+      "id" : "749396a4-c001-45cc-9fc0-b9a8ae732815",
+      "imgURL" : "https://firebasestorage.googleapis.com/v0/b/assettocorsagarage.appspot.com/o/images%2Fmods%2FfordMustangBoss302.jpg?alt=media&token=f9f9e53e-b36d-48b0-b8ed-993068204966",
+      "modURL" : "https://www.racedepartment.com/downloads/1970s-performance-mustangs.19574/",
+      "model" : "Mustang Boss 302",
+      "transmission" : "Manual",
+      "verified" : true,
+      "year" : 1970
+    },
+    "77747f2d-c9e0-43a8-9e1d-024ef497ed2c" : {
+      "brand" : "Chevrolet",
+      "carClass" : "Prototype",
+      "createdBy" : "jXA3EsCxBqa6KFRiQ87zgJLlo6c2",
+      "dateAdded" : "2021-03-20T02:41:54.451Z",
+      "id" : "77747f2d-c9e0-43a8-9e1d-024ef497ed2c",
+      "imgURL" : "https://firebasestorage.googleapis.com/v0/b/assettocorsagarage.appspot.com/o/images%2Fmods%2FdallaraCorvetteDP.jpg?alt=media&token=69ff7738-2959-4139-8d87-2befad43c852",
+      "modURL" : "https://www.racedepartment.com/downloads/ier-car-pack-1-uscc-mod.7348/",
+      "model" : "Dallara Corvette DP",
+      "transmission" : "Paddle Shifter",
+      "verified" : true,
+      "year" : 2014
+    },
+    "86b4898f-dacb-4e6e-989a-1b3639eec71b" : {
+      "brand" : "Mitsubishi",
+      "carClass" : "Race",
+      "createdBy" : "jXA3EsCxBqa6KFRiQ87zgJLlo6c2",
+      "dateAdded" : "2021-03-20T03:12:26.335Z",
+      "id" : "86b4898f-dacb-4e6e-989a-1b3639eec71b",
+      "imgURL" : "https://firebasestorage.googleapis.com/v0/b/assettocorsagarage.appspot.com/o/images%2Fmods%2FmitsubishiLancerEvo.jpg?alt=media&token=3c42220e-d112-4c12-8fec-7fa05108fad2",
+      "modURL" : "https://www.racedepartment.com/downloads/mitsubishi-lancer-evo-viii-time-attack.26972/",
+      "model" : "Lancer EVO VIII",
+      "transmission" : "Sequential",
+      "verified" : true,
+      "year" : 2016
+    },
+    "877e02f6-d134-4705-b391-8b4b32a93f3c" : {
+      "brand" : "Ford",
+      "carClass" : "Road",
+      "createdBy" : "jXA3EsCxBqa6KFRiQ87zgJLlo6c2",
+      "dateAdded" : "2021-03-20T02:56:40.290Z",
+      "id" : "877e02f6-d134-4705-b391-8b4b32a93f3c",
+      "imgURL" : "https://firebasestorage.googleapis.com/v0/b/assettocorsagarage.appspot.com/o/images%2Fmods%2FfordTransit.jpg?alt=media&token=f6e2cae0-e927-45e9-b3b1-384fcaf0e427",
+      "modURL" : "https://www.racedepartment.com/downloads/2005-ford-transit.22336/",
+      "model" : "Transit",
+      "transmission" : "Manual",
+      "verified" : true,
+      "year" : 2005
+    },
+    "8c0e5ce8-fca3-4689-b058-862f21467f2b" : {
+      "brand" : "Porsche",
+      "carClass" : "Road",
+      "createdBy" : "jXA3EsCxBqa6KFRiQ87zgJLlo6c2",
+      "dateAdded" : "2021-03-20T03:18:40.526Z",
+      "id" : "8c0e5ce8-fca3-4689-b058-862f21467f2b",
+      "imgURL" : "https://firebasestorage.googleapis.com/v0/b/assettocorsagarage.appspot.com/o/images%2Fmods%2FporscheSinger.jpg?alt=media&token=74ee1d9b-d537-4564-89fa-03b0b1c4305b",
+      "modURL" : "https://www.racedepartment.com/downloads/porsche-911-singer.29318/",
+      "model" : "911 Singer",
+      "transmission" : "Manual",
+      "verified" : true,
+      "year" : 2019
+    },
+    "93976396-1ff8-4674-a829-155f65febe5d" : {
+      "brand" : "Ferrari",
+      "carClass" : "Open Wheel",
+      "createdBy" : "jXA3EsCxBqa6KFRiQ87zgJLlo6c2",
+      "dateAdded" : "2021-03-20T02:51:06.336Z",
+      "id" : "93976396-1ff8-4674-a829-155f65febe5d",
+      "imgURL" : "https://firebasestorage.googleapis.com/v0/b/assettocorsagarage.appspot.com/o/images%2Fmods%2FferrariF2002.jpg?alt=media&token=49773937-3423-4295-bd94-4edc080a1627",
+      "modURL" : "https://www.racedepartment.com/downloads/ferrari-f2002.8703/",
+      "model" : "F2002",
+      "transmission" : "Paddle Shifter",
+      "verified" : true,
+      "year" : 2002
+    },
+    "a0f7b69d-0e22-439d-9bd5-1b7b28db7808" : {
+      "brand" : "Peugeot",
+      "carClass" : "Road",
+      "createdBy" : "jXA3EsCxBqa6KFRiQ87zgJLlo6c2",
+      "dateAdded" : "2021-03-20T03:17:19.868Z",
+      "id" : "a0f7b69d-0e22-439d-9bd5-1b7b28db7808",
+      "imgURL" : "https://firebasestorage.googleapis.com/v0/b/assettocorsagarage.appspot.com/o/images%2Fmods%2Fpeugeot504TN.jpg?alt=media&token=60a4a49e-90b4-4f08-ac49-e02c1679f896",
+      "modURL" : "https://www.racedepartment.com/downloads/peugeot-504.7890/",
+      "model" : "504 TN Sport",
+      "transmission" : "Manual",
+      "verified" : true,
+      "year" : 1977
+    },
+    "a284aace-49e1-4bdf-a804-4218c3ea0006" : {
+      "brand" : "Lamborghini",
+      "carClass" : "Road",
+      "createdBy" : "jXA3EsCxBqa6KFRiQ87zgJLlo6c2",
+      "dateAdded" : "2021-03-20T03:04:23.884Z",
+      "id" : "a284aace-49e1-4bdf-a804-4218c3ea0006",
+      "imgURL" : "https://firebasestorage.googleapis.com/v0/b/assettocorsagarage.appspot.com/o/images%2Fmods%2FlamboDiabloVT.jpg?alt=media&token=bec9bf7f-e49b-43d7-9621-7934c04689a0",
+      "modURL" : "https://www.racedepartment.com/downloads/nfs-tournament-class-a.16905/",
+      "model" : "Diablo VT",
+      "transmission" : "Manual",
+      "verified" : true,
+      "year" : 1995
+    },
+    "a49f00ce-a69e-424f-a772-5ed232d80c96" : {
+      "brand" : "De Tomaso",
+      "carClass" : "Race",
+      "createdBy" : "jXA3EsCxBqa6KFRiQ87zgJLlo6c2",
+      "dateAdded" : "2021-03-20T02:45:02.946Z",
+      "id" : "a49f00ce-a69e-424f-a772-5ed232d80c96",
+      "imgURL" : "https://firebasestorage.googleapis.com/v0/b/assettocorsagarage.appspot.com/o/images%2Fmods%2FdeTomasoPantera.jpg?alt=media&token=3adcc18d-9c7a-45fc-b658-28e65b8f9e98",
+      "modURL" : "https://www.racedepartment.com/downloads/de-tomaso-pantera-gr-4-gt4.29339/",
+      "model" : "Pantera",
+      "transmission" : "Manual",
+      "verified" : true,
+      "year" : 1972
+    },
+    "a546636e-bda4-4aaf-b9fe-2306a4c3fd8a" : {
+      "brand" : "Williams",
+      "carClass" : "Open Wheel",
+      "createdBy" : "jXA3EsCxBqa6KFRiQ87zgJLlo6c2",
+      "dateAdded" : "2021-03-20T03:27:24.637Z",
+      "id" : "a546636e-bda4-4aaf-b9fe-2306a4c3fd8a",
+      "imgURL" : "https://firebasestorage.googleapis.com/v0/b/assettocorsagarage.appspot.com/o/images%2Fmods%2FwilliamsFW24.jpg?alt=media&token=0ca35554-20d0-4f94-995b-5851b1b91775",
+      "modURL" : "https://www.racedepartment.com/downloads/msf-williams-fw24-f1-2002.15374/",
+      "model" : "FW24",
+      "transmission" : "Paddle Shifter",
+      "verified" : true,
+      "year" : 2002
+    },
+    "a6913d2c-6323-482d-b106-6ec7935b0360" : {
+      "brand" : "Lamborghini",
+      "carClass" : "Road",
+      "createdBy" : "jXA3EsCxBqa6KFRiQ87zgJLlo6c2",
+      "dateAdded" : "2021-03-20T03:03:02.509Z",
+      "id" : "a6913d2c-6323-482d-b106-6ec7935b0360",
+      "imgURL" : "https://firebasestorage.googleapis.com/v0/b/assettocorsagarage.appspot.com/o/images%2Fmods%2FlamboDiablo.jpg?alt=media&token=24ad2c01-936b-4253-91a0-50b84a31bd5b",
+      "modURL" : "https://www.racedepartment.com/downloads/lamborghini-diablo-se30-jota.15708/",
+      "model" : "Diablo SE30 Jota",
+      "transmission" : "Manual",
+      "verified" : true,
+      "year" : 1995
+    },
+    "b41e0683-feb7-401b-80ba-9de8235c4c7f" : {
+      "brand" : "Ferrari",
+      "carClass" : "Open Wheel",
+      "createdBy" : "jXA3EsCxBqa6KFRiQ87zgJLlo6c2",
+      "dateAdded" : "2021-03-20T02:52:52.083Z",
+      "id" : "b41e0683-feb7-401b-80ba-9de8235c4c7f",
+      "imgURL" : "https://firebasestorage.googleapis.com/v0/b/assettocorsagarage.appspot.com/o/images%2Fmods%2FferrariF2007.jpg?alt=media&token=b32c55dd-256b-4f0a-bbed-798ecb6408ea",
+      "modURL" : "https://www.racedepartment.com/downloads/vrc-formula-alpha-ferrenzo-f07.21859/",
+      "model" : "F2007",
+      "transmission" : "Paddle Shifter",
+      "verified" : true,
+      "year" : 2007
+    },
+    "bec3d363-cc7f-4dc5-8902-0ebace52aab0" : {
+      "brand" : "McLaren",
+      "carClass" : "Open Wheel",
+      "createdBy" : "jXA3EsCxBqa6KFRiQ87zgJLlo6c2",
+      "dateAdded" : "2021-03-20T03:08:55.897Z",
+      "id" : "bec3d363-cc7f-4dc5-8902-0ebace52aab0",
+      "imgURL" : "https://firebasestorage.googleapis.com/v0/b/assettocorsagarage.appspot.com/o/images%2Fmods%2FmclarenMP4-13.jpg?alt=media&token=a10d96b1-d2fc-463c-b991-7ecfdb9ec50b",
+      "modURL" : "https://www.racedepartment.com/downloads/mclaren-mp4-13.6061/",
+      "model" : "MP4/13",
+      "transmission" : "Paddle Shifter",
+      "verified" : true,
+      "year" : 1998
+    },
+    "beef00ed-5478-47e6-bfd2-00bc52a5e7cc" : {
+      "brand" : "Subaru",
+      "carClass" : "Road",
+      "createdBy" : "jXA3EsCxBqa6KFRiQ87zgJLlo6c2",
+      "dateAdded" : "2021-03-20T03:25:54.316Z",
+      "id" : "beef00ed-5478-47e6-bfd2-00bc52a5e7cc",
+      "imgURL" : "https://firebasestorage.googleapis.com/v0/b/assettocorsagarage.appspot.com/o/images%2Fmods%2FsubaruImpreza.jpg?alt=media&token=07c4649f-6ffe-400d-9deb-e78c61b76eac",
+      "modURL" : "https://www.racedepartment.com/downloads/2007-subaru-impreza-wrx-gd-tuned.33356/",
+      "model" : "Impreza WRX GD",
+      "transmission" : "Manual",
+      "verified" : true,
+      "year" : 2007
+    },
+    "bfa576ee-1ace-4e17-a55a-3d5dfe04417a" : {
+      "brand" : "Oreca",
+      "carClass" : "Prototype",
+      "createdBy" : "jXA3EsCxBqa6KFRiQ87zgJLlo6c2",
+      "dateAdded" : "2021-03-20T03:16:16.545Z",
+      "id" : "bfa576ee-1ace-4e17-a55a-3d5dfe04417a",
+      "imgURL" : "https://firebasestorage.googleapis.com/v0/b/assettocorsagarage.appspot.com/o/images%2Fmods%2ForecaFLM09.jpg?alt=media&token=bf8195b9-7f79-44c3-b383-cff4167a60e8",
+      "modURL" : "https://www.racedepartment.com/downloads/ier-car-pack-1-uscc-mod.7348/",
+      "model" : "FLM09",
+      "transmission" : "Paddle Shifter",
+      "verified" : true,
+      "year" : 2009
+    },
+    "c07a28af-df1b-4695-b9bb-82cdd24480e7" : {
+      "brand" : "Porsche",
+      "carClass" : "Race",
+      "createdBy" : "jXA3EsCxBqa6KFRiQ87zgJLlo6c2",
+      "dateAdded" : "2021-03-20T03:20:27.059Z",
+      "id" : "c07a28af-df1b-4695-b9bb-82cdd24480e7",
+      "imgURL" : "https://firebasestorage.googleapis.com/v0/b/assettocorsagarage.appspot.com/o/images%2Fmods%2Fporsche911GTAmerica.jpg?alt=media&token=c55787e1-3542-48b8-9752-68b359b78847",
+      "modURL" : "https://www.racedepartment.com/downloads/porsche-911-gt-america-ier-simulations-uscc-mod.27798/",
+      "model" : "911 GT America",
+      "transmission" : "Paddle Shifter",
+      "verified" : true,
+      "year" : 2015
+    },
+    "c17de5c4-60b7-4ad1-902e-51c3f7852832" : {
+      "brand" : "Honda",
+      "carClass" : "Race",
+      "createdBy" : "jXA3EsCxBqa6KFRiQ87zgJLlo6c2",
+      "dateAdded" : "2021-03-26T03:37:07.550Z",
+      "id" : "c17de5c4-60b7-4ad1-902e-51c3f7852832",
+      "imgURL" : "https://firebasestorage.googleapis.com/v0/b/assettocorsagarage.appspot.com/o/images%2Fmods%2Fa77af118-1194-46e1-8465-a28eb979ed7b?alt=media&token=348a6a3b-1905-4226-8d73-1226f4be231a",
+      "modURL" : "https://www.racedepartment.com/downloads/honda-racing-lawn-mower.15012/",
+      "model" : "HF2620 Racing Mower",
+      "transmission" : "Paddle Shifter",
+      "verified" : true,
+      "year" : 2012
+    },
+    "cf004535-5d62-4f70-a450-9d73546a0797" : {
+      "brand" : "Dodge",
+      "carClass" : "Road",
+      "createdBy" : "jXA3EsCxBqa6KFRiQ87zgJLlo6c2",
+      "dateAdded" : "2021-03-20T02:48:12.564Z",
+      "id" : "cf004535-5d62-4f70-a450-9d73546a0797",
+      "imgURL" : "https://firebasestorage.googleapis.com/v0/b/assettocorsagarage.appspot.com/o/images%2Fmods%2FdodgeViperRT10.jpg?alt=media&token=0261afad-2abd-4f76-87f2-3fd691ccac07",
+      "modURL" : "https://www.racedepartment.com/downloads/nfs-tournament-class-b.20228/",
+      "model" : "Viper RT/10",
+      "transmission" : "Manual",
+      "verified" : true,
+      "year" : 1995
+    },
+    "cfa3bba8-8190-4fe6-b044-8a3e5b331625" : {
+      "brand" : "Chevrolet",
+      "carClass" : "Race",
+      "createdBy" : "jXA3EsCxBqa6KFRiQ87zgJLlo6c2",
+      "dateAdded" : "2021-03-20T02:42:52.591Z",
+      "id" : "cfa3bba8-8190-4fe6-b044-8a3e5b331625",
+      "imgURL" : "https://firebasestorage.googleapis.com/v0/b/assettocorsagarage.appspot.com/o/images%2Fmods%2FcorvetteC6.jpg?alt=media&token=f176c2bd-01be-4b93-a14e-a731c4dfa7e9",
+      "modURL" : "https://www.racedepartment.com/downloads/corvette-c6r-2013.2852/",
+      "model" : "Corvette C6R",
+      "transmission" : "Paddle Shifter",
+      "verified" : true,
+      "year" : 2009
+    },
+    "de75a3f5-df37-42b3-9358-ca51fa8ecd53" : {
+      "brand" : "Ginetta",
+      "carClass" : "Race",
+      "createdBy" : "jXA3EsCxBqa6KFRiQ87zgJLlo6c2",
+      "dateAdded" : "2021-03-20T02:58:42.466Z",
+      "id" : "de75a3f5-df37-42b3-9358-ca51fa8ecd53",
+      "imgURL" : "https://firebasestorage.googleapis.com/v0/b/assettocorsagarage.appspot.com/o/images%2Fmods%2FginettaG5.jpg?alt=media&token=5acd62d9-6cbe-4e21-8b06-674e18c30cfb",
+      "modURL" : "https://www.racedepartment.com/downloads/ginetta-supercup-2017.17522/",
+      "model" : "G55 SuperCup",
+      "transmission" : "Paddle Shifter",
+      "verified" : true,
+      "year" : 2017
+    },
+    "e1962d8f-9ad4-4324-a3b4-f1579f052566" : {
+      "brand" : "Russell-Alexis",
+      "carClass" : "Open Wheel",
+      "createdBy" : "jXA3EsCxBqa6KFRiQ87zgJLlo6c2",
+      "dateAdded" : "2021-03-20T03:22:56.669Z",
+      "id" : "e1962d8f-9ad4-4324-a3b4-f1579f052566",
+      "imgURL" : "https://firebasestorage.googleapis.com/v0/b/assettocorsagarage.appspot.com/o/images%2Fmods%2FformulaFord.jpg?alt=media&token=a575d4ba-8bd7-43f9-bc0a-480b69fdf6e5",
+      "modURL" : "https://www.racedepartment.com/downloads/formula-ford-russell-alexis-mk-14.24419/",
+      "model" : "Mk. 14 Formula Ford",
+      "transmission" : "Manual",
+      "verified" : true,
+      "year" : 1967
+    },
+    "e30db96f-9cad-4a7a-b8d9-a5c0a8ae4d59" : {
+      "brand" : "Acura",
+      "carClass" : "Road",
+      "createdBy" : "jXA3EsCxBqa6KFRiQ87zgJLlo6c2",
+      "dateAdded" : "2021-03-20T00:23:55.397Z",
+      "id" : "e30db96f-9cad-4a7a-b8d9-a5c0a8ae4d59",
+      "imgURL" : "https://firebasestorage.googleapis.com/v0/b/assettocorsagarage.appspot.com/o/images%2Fmods%2FacuraNSX.jpg?alt=media&token=8d68d954-06d0-4a94-9394-73b7a3aa19b5",
+      "modURL" : "https://www.racedepartment.com/downloads/honda-nsx.4768/",
+      "model" : "NSX",
+      "transmission" : "Manual",
+      "verified" : true,
+      "year" : 1994
+    },
+    "e53a2578-e00b-4114-8e84-02a21e98b50c" : {
+      "brand" : "McLaren",
+      "carClass" : "Open Wheel",
+      "createdBy" : "jXA3EsCxBqa6KFRiQ87zgJLlo6c2",
+      "dateAdded" : "2021-03-20T03:08:06.956Z",
+      "id" : "e53a2578-e00b-4114-8e84-02a21e98b50c",
+      "imgURL" : "https://firebasestorage.googleapis.com/v0/b/assettocorsagarage.appspot.com/o/images%2Fmods%2FmclarenMP4.jpg?alt=media&token=569720bf-f922-4d1d-ac6a-31c9c74ccf5d",
+      "modURL" : "https://www.racedepartment.com/downloads/vrc-formula-alpha-mclenna-mc2.19623/",
+      "model" : "MP4/22",
+      "transmission" : "Paddle Shifter",
+      "verified" : true,
+      "year" : 2007
+    },
+    "e860058e-b96e-431e-8989-a822adc540bd" : {
+      "brand" : "Lola",
+      "carClass" : "Race",
+      "createdBy" : "jXA3EsCxBqa6KFRiQ87zgJLlo6c2",
+      "dateAdded" : "2021-03-20T03:06:25.798Z",
+      "id" : "e860058e-b96e-431e-8989-a822adc540bd",
+      "imgURL" : "https://firebasestorage.googleapis.com/v0/b/assettocorsagarage.appspot.com/o/images%2Fmods%2FlolaT70.jpg?alt=media&token=9c9490dc-0d07-428d-a1bf-cbb648f2c4b9",
+      "modURL" : "https://www.racedepartment.com/downloads/lola-t70-mkii-spyder-rf2.16043/",
+      "model" : "T70 MkII Spyder",
+      "transmission" : "Manual",
+      "verified" : true,
+      "year" : 1966
+    },
+    "fb994fd8-eb96-48b6-8d95-df7520905650" : {
+      "brand" : "Chevrolet",
+      "carClass" : "Road",
+      "createdBy" : "jXA3EsCxBqa6KFRiQ87zgJLlo6c2",
+      "dateAdded" : "2021-03-20T02:40:30.274Z",
+      "id" : "fb994fd8-eb96-48b6-8d95-df7520905650",
+      "imgURL" : "https://firebasestorage.googleapis.com/v0/b/assettocorsagarage.appspot.com/o/images%2Fmods%2FchevroletCorvetteC4.jpg?alt=media&token=edf84a3c-006e-4870-a06d-10b044c35441",
+      "modURL" : "https://www.racedepartment.com/downloads/nfs-tournament-class-b.20228/",
+      "model" : "Corvette C4 ZR-1",
+      "transmission" : "Manual",
+      "verified" : true,
+      "year" : 1990
+    },
+    "ffe534a8-34b6-4a8a-b7e9-a8c831acc69a" : {
+      "brand" : "Skoda",
+      "carClass" : "Race",
+      "createdBy" : "jXA3EsCxBqa6KFRiQ87zgJLlo6c2",
+      "dateAdded" : "2021-03-20T03:25:17.212Z",
+      "id" : "ffe534a8-34b6-4a8a-b7e9-a8c831acc69a",
+      "imgURL" : "https://firebasestorage.googleapis.com/v0/b/assettocorsagarage.appspot.com/o/images%2Fmods%2Fskoda130RS.jpg?alt=media&token=bc3dae33-107f-4bc1-91b5-cdecb68dc217",
+      "modURL" : "https://www.racedepartment.com/downloads/skoda-130-rs.26700/",
+      "model" : "130 RS",
+      "transmission" : "Manual",
+      "verified" : true,
+      "year" : 1975
+    }
+  }
+}
